@@ -13,7 +13,7 @@
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=anshibaa0-create&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/anshibaa0-create-b10399411">
+  <a href="https://www.linkedin.com/in/anshibaathimannil-b10399411">
     <img src="https://img.shields.io/badge/LinkedIn-Anshiba_Athimannil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anshibaa0@gmail.com">
@@ -98,14 +98,15 @@ class Anshiba:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshibaa0-create&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshibaa0-create&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshibaa0-create&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&hide_rank=false&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshibaa0-create&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshibaa0-create&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=anshibaa0-create&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&dates=c9d1d9"/>
 
 </div>
 
@@ -115,7 +116,7 @@ class Anshiba:
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=anshibaa0-create&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=anshibaa0-create&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 
 </div>
 
@@ -125,7 +126,7 @@ class Anshiba:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshibaa0-create&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f59e0b"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshibaa0-create&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=a78bfa"/>
 
 </div>
 
@@ -138,7 +139,7 @@ class Anshiba:
 ### 🎨 ansiba.designs
 > *Turning ideas into visually compelling digital experiences*
 
-[![ansiba.designs](https://img.shields.io/badge/ansiba.designs-Founder%20%26%20Creative%20Designer-7C3AED?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.linkedin.com/in/anshibaa0-create-b10399411)
+[![ansiba.designs](https://img.shields.io/badge/ansiba.designs-Founder%20%26%20Creative%20Designer-7C3AED?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.linkedin.com/in/anshibaathimannil-b10399411)
 
 Branding • Social Media Design • Visual Storytelling • Brand Identity
 
@@ -169,7 +170,7 @@ Whether it's science, design, or creative projects — let's build something gre
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anshibaa0-create-b10399411">
+<a href="https://www.linkedin.com/in/anshibaathimannil-b10399411">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
